@@ -64,5 +64,8 @@ These questions are what drive my current research interests in usable security 
 
 ## References
 
-- [MG새마을금고, 바이오인증 공항연계 서비스 출시 (미디어인뉴스, 2022.09.30)](https://www.mediainnews.com/news/articleView.html?idxno=25310)
-- [관련 기사 (IT조선, 2020.07.17)](https://it.chosun.com/news/articleView.html?idxno=2020071703086)
+- [2금융권에도 '바이오 인증' 시스템 확대되나 (IT조선, 2020.07.20)](https://it.chosun.com/news/articleView.html?idxno=2020071703086)
+  — KFCC의 ATM·창구 손바닥 정맥 인증 시스템 구축 사업 발주 관련 보도
+
+- [MG새마을금고, 바이오인증 공항연계 서비스 이용 가능 (미디어인뉴스, 2022.09.30)](https://www.mediainnews.com/news/articleView.html?idxno=25310)
+  — 새마을금고 바이오 인증 서비스가 국내 14개 공항으로 확장된 서비스 출시 보도
