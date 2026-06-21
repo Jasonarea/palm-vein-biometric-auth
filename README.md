@@ -62,6 +62,16 @@ These questions are what drive my current research interests in usable security 
 
 ---
 
+## Related: Internal SMS PIN Authentication System
+
+Because the closed teller terminal environment could not directly 
+call external authentication APIs, I designed an internal SMS PIN 
+generation and verification workflow to support biometric registration, 
+including PIN validity control, authentication history management, 
+and time-limited security controls.
+
+---
+
 ## References
 
 - [2금융권에도 '바이오 인증' 시스템 확대되나 (IT조선, 2020.07.20)](https://it.chosun.com/news/articleView.html?idxno=2020071703086)
